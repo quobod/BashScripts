@@ -1,0 +1,2 @@
+ctrl K: cut line
+ctrl U: uncut line
